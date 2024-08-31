@@ -12,11 +12,9 @@ Table of Contents:-
 3)References
 
 1)Introduction:-
-
 Medical image analysis is essential for diagnosing diseases and guiding medical interventions. This project aims to develop a self-supervised learning framework for medical image analysis, leveraging unlabelled data to learn meaningful representations for downstream tasks such as tumor segmentation.
 
 2)Dataset:-
-
 The dataset used in this project is the BraTS (Brain Tumor Segmentation) dataset, which includes MRI scans with four modalities (FLAIR, T1, T1CE, and T2) and corresponding segmentation masks.
 The dataset can be accessed here.
 
