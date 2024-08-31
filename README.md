@@ -19,7 +19,7 @@ Medical image analysis is essential for diagnosing diseases and guiding medical 
 
 The dataset used in this project is the BraTS (Brain Tumor Segmentation) dataset, which includes MRI scans with four modalities (FLAIR, T1, T1CE, and T2) and corresponding segmentation masks.
 The dataset can be accessed here.
-3)References:-
 
+3)References:-
 BraTS dataset: https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net/input
 Relevant literature on self-supervised learning and autoencoders
